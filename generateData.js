@@ -29,7 +29,8 @@ var database = {
   recipes: [],
   areas: [],
   recipeTags: [],
-  orders: []
+  orders: [],
+  cars:[]
 };
 
 // 336 cats for simple apps
